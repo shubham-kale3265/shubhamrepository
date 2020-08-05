@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>paragraphdmo</title>
+</head>
+<body>
+	<h1> shbham kale </h1>
+	<hr/>
+	<h2> course</h2>
+	<p> html<br>css <br> js</p>
+	<hr/>
+	<h3> ui technology</h3>
+	<pre>		p.no91 
+		hariom nagar
+		 amravti road nagpur
+		 maharstra india</pre>
+		 <hr/>
+		 <ol>
+		 	<li> hdfc</li>
+		 	<li> sbi</li>
+		 	<li> boi</li>
+		 	<li> khotak</li>
+		 <ul>
+		 	<li> student name</li>
+		 	<li> age</li>
+		 	<li> last name</li>
+		 </ul>
+		 <ol>
+		 	<li>login</li>
+		 	<li>gmail logins</li>
+		 </ol>
+		 </ol>
+		 <form>
+		 	course:
+		 	<input type="radio" name="course" checked value="shubham">cse</input>
+
+		 	<input type="radio" name="course" value="shubham1">it</input>
+
+		 	<input type="radio" name="course" value="shubham3">ee</input></form></br>
+		 	traing courses:
+
+		 	<input type="checkbox" name="traing courses" checked value="c1">html</input>
+		 	<input type="checkbox" name="traing courses" value="c2">css</input>
+		 	<input type="checkbox" name="traing courses" value="c3">java script</input></br>
+		 	<select>
+		 		<optgroup label="friends">
+		 		<option> india </option>
+		 		<option> us </option>
+		 		<option> england</option>
+		 	</optgroup>
+		 	<optgroup label="others">
+		 		<option> pk</option>
+		 		<option> wi</option>
+		 	</optgroup>
+		 	</select>
+		 </form></br>
+		 <textarea rows="4" cols="10" disabled></textarea></br>
+		 password: <input type="password" name="password" readonly="password">
+		 <input id="2" name="sex" value="1" type="radio">
+</body>
+</html>
